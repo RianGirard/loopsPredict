@@ -19,4 +19,4 @@ for (var j = 1; j <= 15; j++){
     }
     console.log(j);
 }
-// predicted output is 1, 4, 5, 8, 10, 11, 14, 16
+// predicted output is 1, 4, 5, 8, 10, 11, 14, 16; confirmed! 
